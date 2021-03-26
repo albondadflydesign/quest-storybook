@@ -1,0 +1,31 @@
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g fill="none" fill-rule="evenodd">
+		<g>
+			<g>
+				<g transform="translate(-509 -1572) translate(509 1572)">
+					<g fill="#E5E8EB">
+						<rect width="20" height="20" rx="4.8" />
+					</g>
+					<g>
+						<g fill='#FA5680' transform="translate(3 3)">
+							<circle cx="7" cy="7" r="7" />
+						</g>
+						<g stroke="#FFF" stroke-linecap="round">
+							<g>
+								<path d="M2.672 6.994L5.619 6.81" transform="translate(3 3) translate(5.5) translate(0 .25) rotate(3.576 4.172 6.994)" />
+								<path stroke-width=".75" d="M1.432 1.125L1.682 7.625" transform="translate(3 3) translate(5.5) translate(0 .25) rotate(2.203 1.932 4.125)" />
+							</g>
+						</g>
+					</g>
+					<circle cx="10" cy="10.25" r="1.25" fill="#FFF" />
+					<path fill="#FA5680" d="M4.034 2h2c.552 0 1 .448 1 1v1c-.618-.156-1.268-.234-1.95-.234-.683 0-1.366.078-2.05.234V3c0-.552.448-1 1-1z" transform="rotate(-33 5.034 3)" />
+					<path fill="#FA5680" d="M14.637 2.358h2c.552 0 1 .448 1 1l.001.928c-.517-.103-1.108-.154-1.775-.154-.667 0-1.409.122-2.226.367V3.358c0-.553.448-1 1-1z" transform="rotate(45 15.637 3.428)" />
+					<path fill="#FA5680" d="M6.063 14.3L3 17.087c.579 1.059 1.41 1.236 2.494.531 1.084-.705 1.951-1.811 2.603-3.32H6.063z" transform="rotate(-180 5.548 16.17)" />
+				</g>
+				<path fill="#FA5680" d="M14.99 14.3l-3.062 2.788c.579 1.059 1.41 1.236 2.494.531 1.084-.705 1.952-1.811 2.603-3.32H14.99z" transform="translate(-509 -1572) translate(509 1572) matrix(1 0 0 -1 0 32.34)" />
+			</g>
+		</g>
+	</g>
+</svg>
